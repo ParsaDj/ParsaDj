@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi, I'm Parsa 👋
+
+- 🤓 Aspiring software engineer looking for his first professional experience looking for a real-world experience in this field. Interested in learning more about the development of mobile applications and accessible software. 
+- 📚 Currently Studying B.S. in Software Engineering at Universitiy of California Irvine.
+- 🌱 Currently learning Python, Javascript, and C
+
+## Projects:
 
 <!--
 **ParsaDj/ParsaDj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
