@@ -1,7 +1,8 @@
 ## Hi, I'm Parsa 👋
 
 - 🤓 Aspiring software engineer looking for his first professional experience looking for a real-world experience in this field. Interested in learning more about the development of mobile applications and accessible software. 
-- 📚 Currently Studying B.S. in Software Engineering at Universitiy of California Irvine.
+- 📚 B.A. in Psychological Science (2022)
+- 📚 B.S. in Software Engineering (in process)
 - 🌱 Currently learning Python, Javascript, and C
 
 ## Projects:
