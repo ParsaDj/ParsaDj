@@ -57,4 +57,3 @@ Available on the Apple App Store.
 
 **LinkedIn:** [Parsa Djalilvand](https://www.linkedin.com/in/pdj-)
 
-**Email:** pdjalilvand@alliant.edu
