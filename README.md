@@ -1,59 +1,32 @@
-
 # Hi, I'm Parsa
 
-Robotics & Software Developer
+**Robotics & Software Developer** focused on autonomous systems, operational reliability, and AI-assisted diagnostics.
 
-I'm a robotics and software developer with hands-on experience working with autonomous robotic systems, troubleshooting technical issues, and building software applications.
+I previously worked as a Senior Robot Specialist/Application Engineer at Cobalt AI, operating and troubleshooting autonomous robots, monitoring fleet performance, debugging with Python, and supporting customer deployments.
 
-Previously, I worked as a Senior Robot Specialist/Application Engineer at Cobalt AI, where I operated autonomous robots, monitored system performance, debugged software using Python, and supported robotic deployments in real-world customer environments.
+## Featured Work
 
-I'm currently expanding my engineering skills through independent projects focused on robotics, AI, and software development.
+### [ATLAS — Autonomous Task & Logistics Agent System](https://github.com/ParsaDj/ATLAS)
 
-## Tech Stack
+An open-source robotics operations and incident-investigation platform built with synthetic industrial data.
 
-**Languages:** Python, JavaScript, TypeScript, SQL, Java
+- Five-robot simulator with mission execution, telemetry, fault detection, and recovery workflows
+- FastAPI, PostgreSQL, React, TypeScript, Docker Compose, and GitHub Actions
+- Evidence-based incident investigation with versioned technical documents and reproducible evaluations
+- Human-approved maintenance tickets, replacement missions, audit logs, reports, metrics, and tracing
+- ROS 2 and Nav2 bridge with durable offline telemetry; Gazebo runtime validation in progress
 
-**Development:** Git, GitHub, Linux, Node.js, React, iOS Development
+### TheraTaskApp — iOS Application
 
-**Robotics & AI:** Autonomous Robotics, Robot Operations, Robotics Diagnostics, AI Applications
+A published App Store application that helps psychology students manage academic tasks, practicum information, notifications, and study activities.
 
-**Currently Learning:** ROS 2, Docker, FastAPI, Robotics Simulation, and Vision-Language-Action Models
+## Technical Focus
 
-## Featured Projects
+**Languages:** Python, TypeScript, JavaScript, SQL, Java  
+**Software:** FastAPI, React, PostgreSQL, Docker, Git, Linux, GitHub Actions  
+**Robotics:** Autonomous robot operations, fleet diagnostics, ROS 2, Nav2, Gazebo  
+**Current focus:** Reliable robotics software, simulation, AI-assisted troubleshooting, and embodied AI
 
-### ATLAS | Robotics Diagnostics & AI Investigation
-*In Development · Private Repository*
+## Connect
 
-An independent robotics diagnostics project focused on investigating robotic system failures using AI, open-source robotics software, and simulated data.
-
-**Project Goals:**
-- Investigate robotic system failures and operational anomalies.
-- Analyze robot logs and diagnostic information.
-- Explore AI-assisted root cause analysis.
-- Develop a robotics simulation and testing environment.
-- Build tools to support more efficient robotic troubleshooting.
-
-### TheraTaskApp | iOS Application
-
-An iOS application designed to help psychology students manage their academic responsibilities, organize practicum information, and stay on top of their studies.
-
-**Features:**
-- Academic task management
-- Practicum site organization
-- Motivational notifications
-- Interactive study tools
-
-Available on the Apple App Store.
-
-
-## What I'm Working On
-
-- Building ATLAS, my independent robotics diagnostics project.
-- Developing my skills in Python and robotics software engineering.
-- Learning ROS 2, robotics simulation, and AI-assisted troubleshooting.
-- Exploring embodied AI and autonomous robotic systems.
-
-## Connect With Me
-
-**LinkedIn:** [Parsa Djalilvand](https://www.linkedin.com/in/pdj-)
-
+[LinkedIn](https://www.linkedin.com/in/pdj-/) · [ATLAS](https://github.com/ParsaDj/ATLAS)
